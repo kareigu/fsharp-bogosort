@@ -24,3 +24,30 @@
 /home/laptop/Documents/fsharp-bogosort/obj/Debug/netcoreapp3.1/fsharp-bogosort.fsproj.CopyComplete
 /home/laptop/Documents/fsharp-bogosort/obj/Debug/netcoreapp3.1/fsharp-bogosort.dll
 /home/laptop/Documents/fsharp-bogosort/obj/Debug/netcoreapp3.1/fsharp-bogosort.pdb
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\fsharp-bogosort.exe
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\fsharp-bogosort.deps.json
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\fsharp-bogosort.runtimeconfig.json
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\fsharp-bogosort.runtimeconfig.dev.json
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\fsharp-bogosort.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\fsharp-bogosort.pdb
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\obj\Debug\netcoreapp3.1\fsharp-bogosort.fsprojAssemblyReference.cache
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\obj\Debug\netcoreapp3.1\fsharp-bogosort.AssemblyInfoInputs.cache
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\obj\Debug\netcoreapp3.1\fsharp-bogosort.AssemblyInfo.fs
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\obj\Debug\netcoreapp3.1\fsharp-bogosort.fsproj.CopyComplete
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\obj\Debug\netcoreapp3.1\fsharp-bogosort.dll
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\obj\Debug\netcoreapp3.1\fsharp-bogosort.pdb
+C:\Users\Auzer\Documents\Visual Studio 2019\Projects\fsharp-bogosort\obj\Debug\netcoreapp3.1\fsharp-bogosort.genruntimeconfig.cache

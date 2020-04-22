@@ -107,24 +107,26 @@
     ]
   },
   "packageFolders": {
-    "/home/laptop/.nuget/packages/": {}
+    "C:\\Users\\Auzer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/laptop/Documents/fsharp-bogosort/fsharp-bogosort.fsproj",
+      "projectUniqueName": "C:\\Users\\Auzer\\Documents\\Visual Studio 2019\\Projects\\fsharp-bogosort\\fsharp-bogosort.fsproj",
       "projectName": "fsharp-bogosort",
-      "projectPath": "/home/laptop/Documents/fsharp-bogosort/fsharp-bogosort.fsproj",
-      "packagesPath": "/home/laptop/.nuget/packages/",
-      "outputPath": "/home/laptop/Documents/fsharp-bogosort/obj/",
+      "projectPath": "C:\\Users\\Auzer\\Documents\\Visual Studio 2019\\Projects\\fsharp-bogosort\\fsharp-bogosort.fsproj",
+      "packagesPath": "C:\\Users\\Auzer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Auzer\\Documents\\Visual Studio 2019\\Projects\\fsharp-bogosort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/laptop/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Auzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -138,7 +140,8 @@
         "dependencies": {
           "FSharp.Core": {
             "target": "Package",
-            "version": "[4.7.0, )"
+            "version": "[4.7.0, )",
+            "generatePathProperty": true
           }
         },
         "imports": [
@@ -156,7 +159,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
