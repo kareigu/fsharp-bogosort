@@ -26,12 +26,18 @@ let rec checkArray sorted sortResult =
 
 [<EntryPoint>]
 let main argv =
-    let arrayLength : int = 9
+    let arrayLength : int = 7
     let sortedArray : int array = [|for i in 1 .. arrayLength -> i |]
     let mutable arrayToSort : int array = Array.copy sortedArray
     shuffle arrayToSort
 
+    let stopWatch = System.Diagnostics.Stopwatch.StartNew()
+
     printfn"%A" (checkArray sortedArray arrayToSort)
+    stopWatch.Stop()
     printf"Iterations: "
     printfn"%i" iters
+
+    printf"Time to complete: "
+    printfn"%fs" stopWatch.Elapsed.TotalSeconds
     0 // return an integer exit code
