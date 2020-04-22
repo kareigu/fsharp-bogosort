@@ -26,7 +26,7 @@ let rec checkArray sorted sortResult =
 
 [<EntryPoint>]
 let main argv =
-    let arrayLength : int = 7
+    let arrayLength : int = 10
     let sortedArray : int array = [|for i in 1 .. arrayLength -> i |]
     let mutable arrayToSort : int array = Array.copy sortedArray
     shuffle arrayToSort

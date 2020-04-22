@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "fsharp-bogosort": {
+      "commandName": "Project",
+      "commandLineArgs": "5"
+    }
+  }
+}
